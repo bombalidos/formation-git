@@ -6,7 +6,7 @@ Dans cette histoire, nous allons suivre la journée d'un ours polaire appelé Ja
 
 # Chapitre 1 
 
-Il y a un ours habite dans les montagnes.
+Il y a un ours qui habite dans les montagnes.
 Il est tres grand. Lorsqu il se met sur ses deux pattes, il dépasse le plus haut des sapins. 
 Il est très fort. Il est très gourmand. Heureusement, il y a beaucoup de poissons dans la rivière !
 
